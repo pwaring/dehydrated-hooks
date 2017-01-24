@@ -1,8 +1,7 @@
 # dehydrated-hooks
 
-Hook scripts for using [dehydrated](https://github.com/lukas2511/dehydrated)
-to generate and upload TXT records which can be used to respond to DNS
-challenges for LetsEncrypt certificate issuance.
+[dehydrated](https://github.com/lukas2511/dehydrated) hook scripts for
+generating and uploading TXT records in response to LetsEncrypt DNS challenges.
 
 ## Dependencies
 

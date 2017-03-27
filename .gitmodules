@@ -1,3 +1,6 @@
 [submodule "dehydrated"]
 	path = dehydrated
 	url = git@github.com:lukas2511/dehydrated.git
+[submodule "tldextract"]
+	path = tldextract
+	url = git@github.com:john-kurkowski/tldextract.git

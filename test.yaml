@@ -1,0 +1,9 @@
+certificates:
+  - name: mrdns-www
+    hosts:
+      - hostname: mrdns.co.uk
+        ports:
+          - 443
+      - hostname: www.mrdns.co.uk
+        ports:
+          - 443
